@@ -30,4 +30,4 @@ I have also been involved in community programming education and support for old
 
 ## Reading notes
 
-I keep a separate [Chinese reading-notes blog](https://wall-breakerl.github.io/reading-notes/) for ideas, questions, and reflections from articles I read.
+I am preparing a separate Chinese reading-notes blog for ideas, questions, and reflections from articles I read.

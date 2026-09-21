@@ -1,6 +1,6 @@
 # Huajun Lu · 个人主页
 
-基于 [Academic Pages](https://github.com/academicpages/academicpages.github.io) 的个人学术主页，包含简介、研究与项目、CV，以及独立阅读笔记博客的入口。
+基于 [Academic Pages](https://github.com/academicpages/academicpages.github.io) 的个人学术主页，包含简介、研究与项目、CV，以及阅读笔记博客的介绍。博客尚未公开，因此暂不显示跳转入口。
 
 站点地址：**https://wall-breakerl.github.io/personal-homepage/**。通过 GitHub Actions 构建并发布到 GitHub Pages，推送 `main` 后自动更新。英文内容根据已有简历整理。
 
