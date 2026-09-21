@@ -1,64 +1,57 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Nanjing University — Computer Science, undergraduate**
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+2023–present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**AutoEtho: an autonomous agent system for mouse-behavior analysis**
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Contributions to pose-data cleaning, quality validation, and cluster-label review tools.
+
+**Exploration of PPL-guided reasoning-tree branching** · September 2025–March 2026
+
+Implemented correlation analysis between perplexity and Monte Carlo value estimates.
+
+## Project experience
+
+**Human-AI Performance Lab** · March–May 2026
+
+Designed and implemented a full-stack application for assessing human–AI collaboration styles.
+
+[Research and project details]({{ '/projects/' | relative_url }})
+
+## Selected competition awards
+
+All awards below were received as a member of the team *平流层*.
+
+- **Gold medal**, ICPC Xi'an Regional Contest, 2025.
+- **Gold medal**, ICPC Kunming Regional Contest, 2024.
+- **Gold medal**, Jiangsu Collegiate Programming Contest, 2024.
+- **Gold medal**, CCPC Qinhuangdao Regional Contest, 2023.
+
+## Selected honors
+
+- Tencent Scholarship, 2025.
+- National Scholarship, academic year 2023–2024.
+
+## Community service
+
+**Computer Science Youth Volunteer Association, Nanjing University**
+
+Programming lessons for children, digital-device support for older adults, and activity coordination.
+
+## Skills
+
+C/C++, Python, algorithm design, data processing, Linux, Git, experiment automation, LaTeX, and Beamer.
+
+## Contact
+
+[231220006@smail.nju.edu.cn](mailto:231220006@smail.nju.edu.cn) · [GitHub](https://github.com/Wall-breakerL)
